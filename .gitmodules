@@ -1,0 +1,3 @@
+[submodule "GSM-scanner"]
+	path = GSM-scanner
+	url = https://github.com/yosriayed/GSM-scanner
