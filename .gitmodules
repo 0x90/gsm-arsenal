@@ -1,3 +1,6 @@
 [submodule "GSM-scanner"]
 	path = GSM-scanner
 	url = https://github.com/yosriayed/GSM-scanner
+[submodule "diag-parser"]
+	path = diag-parser
+	url = https://github.com/moiji-mobile/diag-parser
