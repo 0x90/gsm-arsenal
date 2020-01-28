@@ -115,3 +115,27 @@
 [submodule "gat-app"]
 	path = gat-app
 	url = https://github.com/romankh/gat-app
+[submodule "iListener"]
+	path = iListener
+	url = https://github.com/RabbitNick/iListener
+[submodule "kraken"]
+	path = kraken
+	url = https://github.com/cemizm/kraken
+[submodule "tmsi-sniffer"]
+	path = tmsi-sniffer
+	url = https://github.com/axilirator/tmsi-sniffer
+[submodule "3GPPDecoder"]
+	path = 3GPPDecoder
+	url = https://github.com/panigrahip/3GPPDecoder
+[submodule "GSMEvil"]
+	path = GSMEvil
+	url = https://github.com/sharyer/GSMEvil
+[submodule "geocell"]
+	path = geocell
+	url = https://github.com/kmertol/geocell
+[submodule "CalypsoBTS"]
+	path = CalypsoBTS
+	url = https://github.com/spm81/CalypsoBTS
+[submodule "milenage"]
+	path = milenage
+	url = https://github.com/mmehra/milenage
