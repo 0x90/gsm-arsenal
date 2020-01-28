@@ -103,3 +103,6 @@
 [submodule "RFMap"]
 	path = RFMap
 	url = https://github.com/onticsoluciones/RFMap
+[submodule "Awesome-Cellular-Hacking"]
+	path = Awesome-Cellular-Hacking
+	url = https://github.com/W00t3k/Awesome-Cellular-Hacking
