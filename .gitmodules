@@ -106,3 +106,6 @@
 [submodule "Awesome-Cellular-Hacking"]
 	path = Awesome-Cellular-Hacking
 	url = https://github.com/W00t3k/Awesome-Cellular-Hacking
+[submodule "osmo-sim-auth"]
+	path = osmo-sim-auth
+	url = https://github.com/GerardPinto/osmo-sim-auth
