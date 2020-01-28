@@ -4,3 +4,102 @@
 [submodule "diag-parser"]
 	path = diag-parser
 	url = https://github.com/moiji-mobile/diag-parser
+[submodule "gsm-assessment-toolkit"]
+	path = gsm-assessment-toolkit
+	url = https://github.com/romankh/gsm-assessment-toolkit
+[submodule "IMSI-catcher"]
+	path = IMSI-catcher
+	url = https://github.com/Oros42/IMSI-catcher
+[submodule "Typhon-imsiCatcher-Catcher"]
+	path = Typhon-imsiCatcher-Catcher
+	url = https://github.com/0x7678/Typhon-imsiCatcher-Catcher
+[submodule "icc"]
+	path = icc
+	url = https://github.com/santiag0aragon/icc
+[submodule "SDR-Detector"]
+	path = SDR-Detector
+	url = https://github.com/He3556/SDR-Detector
+[submodule "IMSICatcherCatcher"]
+	path = IMSICatcherCatcher
+	url = https://github.com/Eauwzeauw/IMSICatcherCatcher
+[submodule "2G_3G"]
+	path = 2G_3G
+	url = https://github.com/TheIrwin/2G_3G
+[submodule "IMSI-CATCHER-SNIFFER"]
+	path = IMSI-CATCHER-SNIFFER
+	url = https://github.com/richalonso/IMSI-CATCHER-SNIFFER
+[submodule "gsmsms_sdr"]
+	path = gsmsms_sdr
+	url = https://github.com/yearnwang/gsmsms_sdr
+[submodule "QCSuper"]
+	path = QCSuper
+	url = https://github.com/P1sec/QCSuper
+[submodule "gr-gsm"]
+	path = gr-gsm
+	url = https://github.com/osmocom/gr-gsm
+[submodule "Gsm-Packets-Analysis-Framework"]
+	path = Gsm-Packets-Analysis-Framework
+	url = https://github.com/shwetankarora/Gsm-Packets-Analysis-Framework
+[submodule "typhon-vx"]
+	path = typhon-vx
+	url = https://github.com/0x7678/typhon-vx
+[submodule "multi-rtl"]
+	path = multi-rtl
+	url = https://github.com/ptrkrysik/multi-rtl
+[submodule "evilbts"]
+	path = evilbts
+	url = https://github.com/security-geeks/evilbts
+[submodule "airprobe-hopping"]
+	path = airprobe-hopping
+	url = https://github.com/BogdanDIA/airprobe-hopping
+[submodule "gsm-at-lib"]
+	path = gsm-at-lib
+	url = https://github.com/MaJerle/gsm-at-lib
+[submodule "gsmmux"]
+	path = gsmmux
+	url = https://github.com/ya-jeks/gsmmux
+[submodule "gsml"]
+	path = gsml
+	url = https://github.com/ptrkrysik/gsml
+[submodule "hackrf-gsm"]
+	path = hackrf-gsm
+	url = https://github.com/gearmover/hackrf-gsm
+[submodule "kalibrate"]
+	path = kalibrate
+	url = https://github.com/ttsou/kalibrate
+[submodule "GSM-Sniffer"]
+	path = GSM-Sniffer
+	url = https://github.com/lxf94/GSM-Sniffer
+[submodule "rccn"]
+	path = rccn
+	url = https://github.com/Rhizomatica/rccn
+[submodule "kiopcgenerator"]
+	path = kiopcgenerator
+	url = https://github.com/PodgroupConnectivity/kiopcgenerator
+[submodule "GSMDecryption"]
+	path = GSMDecryption
+	url = https://github.com/0xh4di/GSMDecryption
+[submodule "sim-applet-sms-im-alive"]
+	path = sim-applet-sms-im-alive
+	url = https://github.com/PodgroupConnectivity/sim-applet-sms-im-alive
+[submodule "smspdudecoder"]
+	path = smspdudecoder
+	url = https://github.com/Qotto/smspdudecoder
+[submodule "python-gsmmodem"]
+	path = python-gsmmodem
+	url = https://github.com/babca/python-gsmmodem
+[submodule "sim-steering-plmn-reader"]
+	path = sim-steering-plmn-reader
+	url = https://github.com/PodgroupConnectivity/sim-steering-plmn-reader
+[submodule "call-control-mncc-sap"]
+	path = call-control-mncc-sap
+	url = https://github.com/GerardPinto/call-control-mncc-sap
+[submodule "gsm-pdu-decoder"]
+	path = gsm-pdu-decoder
+	url = https://github.com/mehul-m-prajapati/gsm-pdu-decoder
+[submodule "FASCIA"]
+	path = FASCIA
+	url = https://github.com/adulau/FASCIA
+[submodule "RFMap"]
+	path = RFMap
+	url = https://github.com/onticsoluciones/RFMap
