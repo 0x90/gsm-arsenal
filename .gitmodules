@@ -109,3 +109,9 @@
 [submodule "osmo-sim-auth"]
 	path = osmo-sim-auth
 	url = https://github.com/GerardPinto/osmo-sim-auth
+[submodule "mobile-locator"]
+	path = mobile-locator
+	url = https://github.com/twang2218/mobile-locator
+[submodule "gat-app"]
+	path = gat-app
+	url = https://github.com/romankh/gat-app
