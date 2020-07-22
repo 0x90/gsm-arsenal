@@ -142,3 +142,36 @@
 [submodule "gsmevil2"]
 	path = gsmevil2
 	url = https://github.com/sharyer/gsmevil2
+[submodule "GSM-a5-1"]
+	path = GSM-a5-1
+	url = https://github.com/zhang0peter/GSM-a5-1
+[submodule "lteAttack"]
+	path = lteAttack
+	url = https://github.com/macherie/lteAttack
+[submodule "Comp128"]
+	path = Comp128
+	url = https://github.com/xurubin/Comp128
+[submodule "a52crack"]
+	path = a52crack
+	url = https://github.com/rblaze/a52crack
+[submodule "Anderson_attack"]
+	path = Anderson_attack
+	url = https://github.com/kisel93/Anderson_attack
+[submodule "topguw"]
+	path = topguw
+	url = https://github.com/bastienjalbert/topguw
+[submodule "topguw2"]
+	path = topguw2
+	url = https://github.com/bastienjalbert/topguw2
+[submodule "HackRF-Gnu-Radio"]
+	path = HackRF-Gnu-Radio
+	url = https://github.com/0xcesium/HackRF-Gnu-Radio
+[submodule "AIMSICDL"]
+	path = AIMSICDL
+	url = https://github.com/5GSD/AIMSICDL
+[submodule "topguw_api"]
+	path = topguw_api
+	url = https://github.com/bastienjalbert/topguw_api/
+[submodule "dingdong"]
+	path = dingdong
+	url = https://github.com/samyk/dingdong
