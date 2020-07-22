@@ -139,3 +139,6 @@
 [submodule "milenage"]
 	path = milenage
 	url = https://github.com/mmehra/milenage
+[submodule "gsmevil2"]
+	path = gsmevil2
+	url = https://github.com/sharyer/gsmevil2
